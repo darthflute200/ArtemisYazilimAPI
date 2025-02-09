@@ -1,0 +1,5 @@
+com/example/artemisyazilimbackend/Service/BlogService.class
+com/example/artemisyazilimbackend/ArtemisyazilimbackendApplication.class
+com/example/artemisyazilimbackend/Repository/BlogRepo.class
+com/example/artemisyazilimbackend/Models/BlogEntity.class
+com/example/artemisyazilimbackend/Controller/ArtemisController.class

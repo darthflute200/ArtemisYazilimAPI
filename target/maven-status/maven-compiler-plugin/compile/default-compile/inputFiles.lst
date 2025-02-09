@@ -1,0 +1,5 @@
+/home/ege-zdalyan/Masaüstü/ArtemisYazilim/artemisyazilimbackend/src/main/java/com/example/artemisyazilimbackend/ArtemisyazilimbackendApplication.java
+/home/ege-zdalyan/Masaüstü/ArtemisYazilim/artemisyazilimbackend/src/main/java/com/example/artemisyazilimbackend/Controller/ArtemisController.java
+/home/ege-zdalyan/Masaüstü/ArtemisYazilim/artemisyazilimbackend/src/main/java/com/example/artemisyazilimbackend/Models/BlogEntity.java
+/home/ege-zdalyan/Masaüstü/ArtemisYazilim/artemisyazilimbackend/src/main/java/com/example/artemisyazilimbackend/Repository/BlogRepo.java
+/home/ege-zdalyan/Masaüstü/ArtemisYazilim/artemisyazilimbackend/src/main/java/com/example/artemisyazilimbackend/Service/BlogService.java
